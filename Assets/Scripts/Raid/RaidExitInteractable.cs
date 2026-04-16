@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class RaidExitInteractable : InteractableBase
+public class RaidExitInteractable : InteractableBase  // 버튼형 탈출
 {
     [Header("Dependencies")]
     [SerializeField] private RaidSessionController raidSessionController;
