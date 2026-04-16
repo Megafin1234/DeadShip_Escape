@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47f0c5ecb7b58234f9afd6414d17fe32, type: 3}
+  m_Name: ED_TestArmor
+  m_EditorClassIdentifier: Assembly-CSharp::ArmorDefinition
+  itemId: equip_test_armor
+  displayName: "\uC6B0\uC8FC\uBCF5"
+  description: "\uC678\uBD80 \uC218\uB9AC\uC5D0 \uB098\uC124 \uB54C \uC785\uB294
+    \uACF5\uC5C5\uC6A9 \uC6B0\uC8FC\uBCF5\uC774\uB2E4.\n\uCCB4\uB825\uC744 100 \uC62C\uB824\uC900\uB2E4."
+  icon: {fileID: -342030642, guid: 09874534ecbb2164eb68be272d36336d, type: 3}
+  worldPrefab: {fileID: 0}
+  itemCategory: 4
+  rarity: 1
+  sellPrice: 0
+  weight: 1
+  maxStack: 1
+  isDroppable: 1
+  isStorable: 1
+  isQuestTrackable: 1
+  isFavoriteMarkable: 1
+  equipmentType: 3
+  statModifiers:
+  - statType: 2
+    value: 100

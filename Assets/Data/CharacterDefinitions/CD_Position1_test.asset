@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bdb1dd59265e324e88ab2f323b75bc3, type: 3}
+  m_Name: CD_Position1_test
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDefinition
+  characterId: char_pos1_test
+  displayName: Main Operator
+  description: "\uD654\uB825\uD615 \uC624\uD37C\uB808\uC774\uD130\uC785\uB2C8\uB2E4."
+  portrait: {fileID: 1295093847, guid: 0edfa0f6a81475e4198e3a9d9cfc8e26, type: 3}
+  characterPrefab: {fileID: 0}
+  classType: 1
+  baseAttack: 10
+  baseHealth: 80
+  passiveModifiers:
+  - statType: 1
+    value: 10
+  grantsLossProtectionInventory: 0
+  grantsLossProtectionEquipment: 1

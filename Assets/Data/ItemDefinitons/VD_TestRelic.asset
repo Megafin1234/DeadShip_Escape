@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36be41ee426f2d14da99b1232f861765, type: 3}
+  m_Name: VD_TestRelic
+  m_EditorClassIdentifier: Assembly-CSharp::ValuableDefinition
+  itemId: valuable_test_relic
+  displayName: relic
+  description: "\uBE44\uC2FC \uAC12\uC5D0 \uD314 \uC218 \uC788\uC744 \uAC83 \uAC19\uB2E4."
+  icon: {fileID: 312587629, guid: 09874534ecbb2164eb68be272d36336d, type: 3}
+  worldPrefab: {fileID: 0}
+  itemCategory: 1
+  rarity: 2
+  sellPrice: 0
+  weight: 1
+  maxStack: 1
+  isDroppable: 1
+  isStorable: 1
+  isQuestTrackable: 1
+  isFavoriteMarkable: 1

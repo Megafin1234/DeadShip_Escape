@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b32557e403eda9c46823cd2212644c77, type: 3}
+  m_Name: ED_TestBag
+  m_EditorClassIdentifier: Assembly-CSharp::BagDefinition
+  itemId: equip_test_bag
+  displayName: bag
+  description: 
+  icon: {fileID: 0}
+  worldPrefab: {fileID: 0}
+  itemCategory: 4
+  rarity: 0
+  sellPrice: 0
+  weight: 1
+  maxStack: 1
+  isDroppable: 1
+  isStorable: 1
+  isQuestTrackable: 1
+  isFavoriteMarkable: 1
+  equipmentType: 6
+  statModifiers: []

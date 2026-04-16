@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65031d9c5ddac6e4cba51ea7fe8b8d17, type: 3}
+  m_Name: ED_TestHelmet
+  m_EditorClassIdentifier: Assembly-CSharp::HelmetDefinition
+  itemId: equip_test_helmet
+  displayName: helmet
+  description: 
+  icon: {fileID: -134538798, guid: 09874534ecbb2164eb68be272d36336d, type: 3}
+  worldPrefab: {fileID: 0}
+  itemCategory: 4
+  rarity: 0
+  sellPrice: 0
+  weight: 1
+  maxStack: 1
+  isDroppable: 1
+  isStorable: 1
+  isQuestTrackable: 1
+  isFavoriteMarkable: 1
+  equipmentType: 2
+  statModifiers:
+  - statType: 1
+    value: 20
